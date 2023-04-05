@@ -61,7 +61,9 @@ White background.
 
 # Directory of all data.
 
-All image wiles are located under `images`.
+## All image files
+
+All image files are located under `images`.
 
 [images](images/)
 
