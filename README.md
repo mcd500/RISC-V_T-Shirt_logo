@@ -2,7 +2,7 @@
 
 Data files for RISC-V Ambassador logos used for creating T-Shirts and notebooks.
 
-The first project used KiCad for designing T-Shirt logs.
+The first project used KiCad for designing T-Shirt logos.
 
 The logo data is inspired by PCB layout of the real RISC-V board developed by SparkFun.
 
