@@ -37,7 +37,7 @@ The T-Shirt.
 
 ## RISC-V Logs in Red and Green.
 
-![logo](images/ RISC-V-pcb-logo-1-cutout-small-1.jpg)
+![logo](images/RISC-V-pcb-logo-1-cutout-small-1.jpg)
 
 ![banners](images/RISC-V-pcb-logo.bmp)
 
