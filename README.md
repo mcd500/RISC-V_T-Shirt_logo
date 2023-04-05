@@ -7,6 +7,10 @@ The first project used KiCad for designing T-Shirt logs.
 The logo data is inspired by PCB layout of the real RISC-V board developed by SparkFun.
 
 
+The T-Shirt.
+![t-shirt](t-shirt/back.jpg)
+
+
 ## RISC-V Logs in Light Blue and Light Yellows.
 
 ![logo](images/RISC-V-pcb-logo-4-3-3-small.png)
